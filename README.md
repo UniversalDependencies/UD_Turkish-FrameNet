@@ -34,8 +34,8 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Kuzgun, Aslı
+Contributors: Kuzgun, Aslı; Cesur, Neslihan; Yıldız, Olcay Taner; Arıcan, Bilge Nas; Marşan, Büşra; Kara, Neslihan; Kuyrukçu, Oğuzhan; Sanıyar, Ezgi
 Contributing: elsewhere
-Contact: asli.kuzgun@boun.edu.tr
+Contact: asli@starlangyazilim.com
 ===============================================================================
 </pre>
