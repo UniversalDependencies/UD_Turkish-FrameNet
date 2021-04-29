@@ -16,7 +16,7 @@ We wish to thank the Starlang Software Company for funding and supporting this w
 
 ## References
 
-*The Turkish FrameNetnet:
+*The Turkish FrameNet:
 
 Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ... & Yıldız, O. T. (2021, January). Building the Turkish FrameNet. In Proceedings of the 11th Global Wordnet Conference (pp. 118-125).
 
