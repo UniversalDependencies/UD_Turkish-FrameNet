@@ -1,18 +1,18 @@
 # Summary
 
-Turkish FrameNet consists of 2700 manually annotated example sentences and 19221 tokens. Its data consists of  the sentences taken from the Turkish FrameNet Project. The annotated sentences can be filtered according to the semantic frame category of the root of the sentence.
+Turkish FrameNet consists of 2,700 manually annotated example sentences and 19,221 tokens. Its data consists of  the sentences taken from the Turkish FrameNet Project. The annotated sentences can be filtered according to the semantic frame category of the root of the sentence.
 
 
 # Introduction
 
-Turkish FrameNet  consists of 2700  manually annotated sentences and 19221 tokens. The corpus is taken from the Turkish FrameNet Project where the Turkish verbs were annotated according to their semantic arguments. The sentences are like dictionary examples, they include made-up full sentences created by native speakers of Turkish.  
+Turkish FrameNet  consists of 2,700  manually annotated sentences and 19,221 tokens. The corpus is taken from the Turkish FrameNet Project where the Turkish verbs were annotated according to their semantic arguments. The sentences are like dictionary examples, they include made-up full sentences created by native speakers of Turkish.  
 
 The corpus is divided into 139 semantic frames according to the verb meaning. The number of sentences in frames varies according to how many verbs Turkish language has in that category. Each frame has its own dev, test, and training files. 
 
 
 # Acknowledgments
 
-We wish to thank the Starlang Software Company for funding and supporting this work. 
+We wish to thank the Starlang Software for funding and supporting this work. 
 
 ## References
 
