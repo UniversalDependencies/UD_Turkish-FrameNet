@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Turkish-FrameNet:
-commit 0d4dc367927701f1b59724567ecdc2f24898b4dc
+commit d8fee1b995459695947b471d70315b518f67a1b5
+Merge: a84c7ad 39222c2
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 12 21:18:04 2021 +0200
 Size: counted 19221 of 19221 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.91200686264999.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,13 +15,13 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 12004 out of 19221 total words have one or more features.
+Features: 12174 out of 19221 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 29 out of 37 found in the corpus.
+Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL       1625
-Udapi: found 1625 bugs.
+               TOTAL          1
+Udapi: found 1 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 19221 words.
 Genres: found 1 out of 17 known.
 validate.py --lang tr --max-err=10 UD_Turkish-FrameNet/tr_framenet-ud-dev.conllu
@@ -37,8 +37,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.427925326237174) = 0.109724442624916
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=0.154570521825087) = 0.0475601605615653
-(weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.404853801343915) * (availability=1) * (validity=1) = 0.404853801343915
-STARS = 2
-UD_Turkish-FrameNet	0.404853801343915	2
+(weight=0.307692307692308) * (score{udapi}=0.999479735705739) = 0.307532226370996
+(weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
+(TOTAL score=0.666489068816548) * (availability=1) * (validity=1) = 0.666489068816548
+STARS = 3.5
+UD_Turkish-FrameNet	0.666489068816548	3.5
