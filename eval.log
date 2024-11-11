@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Turkish-FrameNet:
-commit 0ab8f505aec17ea2623c34577830e1abb6a4c2c0
+commit 4a9c38c32d0745f1624af64a082af98258b2f498
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 13:09:43 2023 +0100
+Date:   Sun May 5 13:35:34 2024 +0200
 Size: counted 19223 of 19223 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.91221495754145.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -29,6 +29,10 @@ Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang tr --max-err=10 UD_Turkish-FrameNet/tr_framenet-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang tr --max-err=10 UD_Turkish-FrameNet/tr_framenet-ud-train.conllu
+[Line 929 Sent Procurance-0011.train Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:bir:det --> 2:kötü:amod)
+[Line 14774 Sent Hindering-0000.train Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:her:det --> 2:attığı:acl)
+[Line 17686 Sent Success_or_failure-0005.train Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:bir:det --> 4:büyük:amod)
+Warnings: 3
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
